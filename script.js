@@ -7,4 +7,4 @@ function changeColor(_button) {
     if (clickCounter == 3) {       
         clickCounter = 0;
     }    
-}S
+}
